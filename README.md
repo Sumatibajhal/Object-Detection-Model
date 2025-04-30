@@ -69,7 +69,7 @@ coco.names – List of object classes YOLO can detect.
 
 main.py – Main script handling the detection and GUI.
 
-requirements.txt – List of dependencies.
+dog.jpg, eagle.jpg, giraffe.jpg - Test Cases
 
 README.md – Documentation for the project.
 

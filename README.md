@@ -81,3 +81,4 @@ Future Scope
 🎯 Custom Object Training – Train YOLO for specialized object detection (e.g., medical images, retail products).
 
 📡 IoT Deployment – Optimize for edge devices like Raspberry Pi and Jetson Nano.
+![Screenshot 2025-04-24 212013](https://github.com/user-attachments/assets/96480d8f-9c2b-4cd5-956b-7dc7a76bc962)
